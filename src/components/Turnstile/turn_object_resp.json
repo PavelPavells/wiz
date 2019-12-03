@@ -1,0 +1,128 @@
+{
+    "result": {
+        "code": 0,
+        "message": "No error"
+    },
+    "page_view": {
+        "caption": "Мастер подбора конфигурации оборудования",
+        "download_broshure_button_link": "https://carddex.ru/wp-content/uploads/2019/03/01-STR_01.pdf",
+        "model_name": "STR-02SNQE",
+        "model_price": "42 150.50 руб.",
+        "modules_list": [
+            {
+                "name": "Базовая модель",
+                "price": "42 150.50 руб."
+            },
+            {
+                "name": "Универсальный контроллер EP-2000",
+                "price": "8 290.50 руб."
+            },
+            {
+                "name": "Модуль чтения бесконтактных карт EMMarin",
+                "price": "1 250.00 руб."
+            },
+            {
+                "name": "Корпус кожуха из нержавеющей стали",
+                "price": "3 500.00 руб."
+            }
+        ],
+        "carousel_images": [
+            {
+                "index": 0,
+                "image_source": "http://localhost:9999/api/dw/images/barrier_main.png"
+            },
+            {
+                "index": 1,
+                "image_source": "http://localhost:9999/api/dw/images/barrier_main.png"
+            },
+            {
+                "index": 2,
+                "image_source": "http://localhost:9999/api/dw/images/barrier_main.png"
+            },
+            {
+                "index": 3,
+                "image_source": "http://localhost:9999/api/dw/images/barrier_main.png"
+            },
+            {
+                "index": 4,
+                "image_source": "http://localhost:9999/api/dw/images/barrier_main.png"
+            },
+            {
+                "index": 5,
+                "image_source": "http://localhost:9999/api/dw/images/barrier_main.png"
+            }
+        ],
+        "seria_buttons": [
+            {
+                "name": "seriaSTRCompact",
+                "caption": "Компактные турникеты\nсерии STR",
+                "image_source": "http://localhost:9999/api/dw/images/barrier_main.png",
+                "index": 0,
+                "state": 1
+            },
+            {
+                "name": "seriaSTRCompact",
+                "caption": "Компактные турникеты\nсерии STR",
+                "image_source": "http://localhost:9999/api/dw/images/barrier_main.png",
+                "index": 0,
+                "state": 0
+            },
+            {
+                "name": "seriaSTRCompact",
+                "caption": "Компактные турникеты\nсерии STR",
+                "image_source": "http://localhost:9999/api/dw/images/barrier_main.png",
+                "index": 0,
+                "state": 0
+            },
+            {
+                "name": "seriaSTRCompact",
+                "caption": "Компактные турникеты\nсерии STR",
+                "image_source": "http://localhost:9999/api/dw/images/barrier_main.png",
+                "index": 0,
+                "state": 0
+            }
+        ],
+        "selector_buttons": [
+            {
+                "caption": "Универсальный сетевой контроллер EP-2000",
+                "index": 0,
+                "state": 0
+            },
+            {
+                "caption": "RFID идентификаторы EMMarin 125 kHz",
+                "index": 1,
+                "state": 0
+            },
+            {
+                "caption": "RFID идентификаторы Mifare 13,56 MHz",
+                "index": 2,
+                "state": 0
+            },
+            {
+                "caption": "Биометрическая идентификация по отпечаткам пальцев",
+                "index": 3,
+                "state": 0
+            },
+            {
+                "caption": "Информационный дисплей учета рабочего времени",
+                "index": 4,
+                "state": 0
+            },
+            {
+                "caption": "Контроль разовых посещений 2D штрих-коды",
+                "index": 5,
+                "state": 0
+            },
+            {
+                "caption": "Гостевой доступ по 2D штрих-кодам",
+                "index": 6,
+                "state": 0
+            },
+            {
+                "caption": "Корпус кожуха из нержавеющей стали",
+                "index": 7,
+                "state": 0
+            }
+        ]
+    }
+}
